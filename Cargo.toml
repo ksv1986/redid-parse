@@ -8,3 +8,6 @@ edition = "2018"
 
 [dependencies]
 edid = { version = "0.3" }
+
+[replace]
+'edid:0.3.0' = { path = 'edid' }

@@ -1,0 +1,3 @@
+[submodule "edid"]
+	path = edid
+	url = https://github.com/ksv1986/rust-edid.git
